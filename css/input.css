@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  user-select: none;
+}
+
+li {
+  list-style: none;
+}
